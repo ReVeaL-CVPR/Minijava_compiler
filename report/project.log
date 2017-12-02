@@ -1,0 +1,2017 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  6 JAN 2017 02:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**project.tex
+(./project.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 540 replaced by U+FFFD.
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count87
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Invalid UTF-8 byte or sequence at line 1311 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1313 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1315 replaced by U+FFFD.
+\algocf@hangindent=\skip43
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip44
+\skiplinenumber=\skip45
+\skiprule=\skip46
+\skiphlne=\skip47
+\skiptext=\skip48
+\skiplength=\skip49
+\algomargin=\skip50
+\skipalgocfslide=\skip51
+\algowidth=\dimen103
+\inoutsize=\dimen104
+\inoutindent=\dimen105
+\interspacetitleruled=\dimen106
+\interspacealgoruled=\dimen107
+\interspacetitleboxruled=\dimen108
+\algocf@ruledwidth=\skip52
+\algocf@inoutbox=\box26
+\algocf@inputbox=\box27
+\AlCapSkip=\skip53
+\AlCapHSkip=\skip54
+\algoskipindent=\skip55
+\algocf@nlbox=\box28
+\algocf@hangingbox=\box29
+\algocf@untilbox=\box30
+\algocf@skipuntil=\skip56
+\algocf@capbox=\box31
+\algoheightruledefault=\skip57
+\algoheightrule=\skip58
+\algotitleheightruledefault=\skip59
+\algotitleheightrule=\skip60
+\c@algocfline=\count88
+\c@algocfproc=\count89
+\c@algocf=\count90
+\algocf@algoframe=\box32
+\algocf@algobox=\box33
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2016/04/06 v4.08 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen109
+\ttl@minus=\dimen110
+\ttl@toksa=\toks14
+\titlewidth=\dimen111
+\titlewidthlast=\dimen112
+\titlewidthfirst=\dimen113
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/05/18 v6512 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
+L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
+L3 Module: l3str 2016/03/24 v6441 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/03/24 v6441 L3 Integers
+\c_max_int=\count91
+\l_tmpa_int=\count92
+\l_tmpb_int=\count93
+\g_tmpa_int=\count94
+\g_tmpb_int=\count95
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count96
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2016/03/26 v6464 L3 Messages
+L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
+\l_iow_line_count_int=\count97
+\l__iow_target_count_int=\count98
+\l__iow_current_line_int=\count99
+\l__iow_current_word_int=\count100
+\l__iow_current_indentation_int=\count101
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen114
+\c_max_dim=\dimen115
+\l_tmpa_dim=\dimen116
+\l_tmpb_dim=\dimen117
+\g_tmpa_dim=\dimen118
+\g_tmpb_dim=\dimen119
+\c_zero_skip=\skip63
+\c_max_skip=\skip64
+\l_tmpa_skip=\skip65
+\l_tmpb_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count102
+\l_keys_choice_int=\count103
+L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
+\c__fp_leading_shift_int=\count104
+\c__fp_middle_shift_int=\count105
+\c__fp_trailing_shift_int=\count106
+\c__fp_big_leading_shift_int=\count107
+\c__fp_big_middle_shift_int=\count108
+\c__fp_big_trailing_shift_int=\count109
+\c__fp_Bigg_leading_shift_int=\count110
+\c__fp_Bigg_middle_shift_int=\count111
+\c__fp_Bigg_trailing_shift_int=\count112
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box35
+\l_tmpa_box=\box36
+\l_tmpb_box=\box37
+\g_tmpa_box=\box38
+\g_tmpb_box=\box39
+L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
+\l__coffin_internal_box=\box40
+\l__coffin_internal_dim=\dimen120
+\l__coffin_offset_x_dim=\dimen121
+\l__coffin_offset_y_dim=\dimen122
+\l__coffin_x_dim=\dimen123
+\l__coffin_y_dim=\dimen124
+\l__coffin_x_prime_dim=\dimen125
+\l__coffin_y_prime_dim=\dimen126
+\c_empty_coffin=\box41
+\l__coffin_aligned_coffin=\box42
+\l__coffin_aligned_internal_coffin=\box43
+\l_tmpa_coffin=\box44
+\l_tmpb_coffin=\box45
+\l__coffin_display_coffin=\box46
+\l__coffin_display_coord_coffin=\box47
+\l__coffin_display_pole_coffin=\box48
+\l__coffin_display_offset_dim=\dimen127
+\l__coffin_display_x_dim=\dimen128
+\l__coffin_display_y_dim=\dimen129
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen130
+\l__box_bottom_dim=\dimen131
+\l__box_left_dim=\dimen132
+\l__box_right_dim=\dimen133
+\l__box_top_new_dim=\dimen134
+\l__box_bottom_new_dim=\dimen135
+\l__box_left_new_dim=\dimen136
+\l__box_right_new_dim=\dimen137
+\l__box_internal_box=\box49
+\l__coffin_bounding_shift_dim=\dimen138
+\l__coffin_left_corner_dim=\dimen139
+\l__coffin_right_corner_dim=\dimen140
+\l__coffin_bottom_corner_dim=\dimen141
+\l__coffin_top_corner_dim=\dimen142
+\l__coffin_scaled_total_height_dim=\dimen143
+\l__coffin_scaled_width_dim=\dimen144
+L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2016/03/26 v6465 L3 Experimental driver: xdvipdfmx
+\l__driver_tmp_box=\box50
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count113
+\l__xparse_m_args_int=\count114
+\l__xparse_mandatory_args_int=\count115
+\l__xparse_processor_int=\count116
+\l__xparse_v_nesting_int=\count117
+)
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
+X
+\l_fontspec_script_int=\count118
+\l_fontspec_language_int=\count119
+\l_fontspec_strnum_int=\count120
+\l__fontspec_tmpa_dim=\dimen145
+\l__fontspec_tmpb_dim=\dimen146
+\l__fontspec_tmpc_dim=\dimen147
+\g__file_internal_ior=\read1
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/local/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count121
+\tipasavetokens=\toks15
+\tipachecktokens=\toks16
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 96.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 355.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 365.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 375.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 407.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 437.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 453.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 467.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 529.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 540.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 556.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
+.................................................
+\l__fontspec_tmp_int=\count122
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 2705.
+LaTeX Info: Redefining \slshape on input line 2710.
+LaTeX Info: Redefining \scshape on input line 2715.
+LaTeX Info: Redefining \upshape on input line 2720.
+\l__fontspec_em_int=\count123
+\l__fontspec_emdef_int=\count124
+LaTeX Info: Redefining \em on input line 2736.
+LaTeX Info: Redefining \emph on input line 2742.
+LaTeX Info: Redefining \- on input line 2746.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2841.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2845.
+.................................................
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesubscript with sig. 'm' on line 19.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fakesuperscript with sig. 'm' on line 22.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsubscript with sig. 'm' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \realsuperscript with sig. 'm' on line 60.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
+.................................................
+\subsupersep=\dimen150
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box51
+\l__xetex_show_hyphens_temp_box=\box52
+\l__xetex_show_hyphens_final_box=\box53
+\g__xetex_show_hyphens_word_box=\box54
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2015/03/25 v1.42.4 Alternative to Babel for XeLaTeX and Lu
+aLaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count125
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count126
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\xpg@normalclass=\XeTeXcharclass1
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip69
+\thm@postskip=\skip70
+\thm@headsep=\skip71
+\dth@everypar=\toks27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\c@mydef=\count127
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Menlo does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_Menlo_int=\count128
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Menlo(0)' created for font 'Menlo' with options
+. [Mapping=tex-text].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Menlo/AAT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"Menlo/B/AAT:mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"Menlo/I/AAT:mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.: <->"Menlo/BI/AAT:mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for english
+)
+Package polyglossia Info: Default language is english.
+\g__fontspec_family_Consolas_int=\count129
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Consolas(0)' created for font 'Consolas' with options
+. [Mapping=tex-text,Ligatures=TeX].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Consolas/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
+
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"Consolas/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text
+;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.:
+. <->"Consolas/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text
+;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.:
+. <->"Consolas/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-tex
+t;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font STKaiti does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_STKaiti_int=\count130
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STKaiti/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font STKaiti/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STKaiti(0)' created for font 'STKaiti' with options
+. [Mapping=tex-text,Ligatures=TeX,BoldFont=SimHei].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"STKaiti/AAT:mapping=tex-text;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"SimHei/AAT:mapping=tex-text;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen151
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count131
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count132
+\leftroot@=\count133
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count134
+\DOTSCASE@=\count135
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count136
+\c@MaxMatrixCols=\count137
+\dotsspace@=\muskip16
+\c@parentequation=\count138
+\dspbrk@lvl=\count139
+\tag@help=\toks29
+\row@=\count140
+\column@=\count141
+\maxfields@=\count142
+\andhelp@=\toks30
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks31
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count143
+\lst@gtempboxa=\box57
+\lst@token=\toks33
+\lst@length=\count144
+\lst@currlwidth=\dimen160
+\lst@column=\count145
+\lst@pos=\count146
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count147
+\lst@lineno=\count148
+\lst@maxwidth=\dimen163
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count149
+\lst@skipnumbers=\count150
+\lst@framebox=\box58
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font SimSun does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_SimSun_int=\count151
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Mapping=tex-text].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font SimHei does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_SimHei_int=\count152
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimHei(0)' created for font 'SimHei' with options
+. [Mapping=tex-text].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+\g__fontspec_family_TimesNewRoman_int=\count153
+
+*************************************************
+* fontspec warning: "bad-colour"
+* 
+* Bad colour declaration "MSLightBlue". Colour must be one of:
+* * a named xcolor colour
+* * a six-digit hex colour RRGGBB
+* * an eight-digit hex colour RRGGBBTT with opacity
+*************************************************
+*************************************************
+* fontspec warning: "bad-colour"
+* 
+* Bad colour declaration "MSLightBlue". Colour must be one of:
+* * a named xcolor colour
+* * a six-digit hex colour RRGGBB
+* * an eight-digit hex colour RRGGBBTT with opacity
+*************************************************
+*************************************************
+* fontspec warning: "bad-colour"
+* 
+* Bad colour declaration "MSLightBlue". Colour must be one of:
+* * a named xcolor colour
+* * a six-digit hex colour RRGGBB
+* * an eight-digit hex colour RRGGBBTT with opacity
+*************************************************
+*************************************************
+* fontspec warning: "bad-colour"
+* 
+* Bad colour declaration "MSLightBlue". Colour must be one of:
+* * a named xcolor colour
+* * a six-digit hex colour RRGGBB
+* * an eight-digit hex colour RRGGBBTT with opacity
+*************************************************
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
+. options [Mapping=tex-text,Color=MSLightBlue].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Times New
+. Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"Times New Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"Times New Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.: <->"Times New
+. Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(./project.aux)
+\openout1 = `project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 59.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 59.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 59.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 59.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 59.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 59.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 59.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 59.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 59.
+LaTeX Font Info:    Redeclaring math accent \check on input line 59.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 59.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 59.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 59.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 59.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/STKaiti(0)/m/n on input line 59.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/STKaiti(0)/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/STKaiti(0)/m/n --> EU1/STKaiti(0)/m/n on input line
+ 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/STKaiti(0)/m/it on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/STKaiti(0)/bx/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/Consolas(0)/m/n on input line 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/STKaiti(0)/m/n --> EU1/STKaiti(0)/bx/n on input lin
+e 59.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/STKaiti(0)/bx/it on input line 59
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/Consolas(0)/bx/n on input line 59
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 59.
+\c@lstlisting=\count154
+LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Font shape `EU1/SimHei(0)/bx/n' undefined
+(Font)              using `EU1/SimHei(0)/m/n' instead on input line 70.
+
+
+Overfull \hbox (3.97pt too wide) in paragraph at lines 73--74
+[]\EU1/STKaiti(0)/m/n/10 lab的第一部分要求对任意符合语法规则的minijava程序输入进行初步的语义
+ []
+
+
+Overfull \hbox (5.13pt too wide) in paragraph at lines 73--74
+\EU1/STKaiti(0)/m/n/10 分析，从而确定其是否符合一些基本的语义规则。该试验先用javaCC生成的抽象
+ []
+
+
+Overfull \hbox (1.37584pt too wide) in paragraph at lines 73--74
+\EU1/STKaiti(0)/m/n/10 语法树解析器（AST Parser）对输入程序先构造抽象语法树，并基于此进行类型
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 75--76
+[]\EU1/STKaiti(0)/m/n/10 为了确定每一个语句是否符合基本的语义规则，比如变量类型是否匹配，类
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 75--76
+\EU1/STKaiti(0)/m/n/10 调用函数是否符合申明格式之类，必须了解关于变量、类在语句所处的上下文环
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 75--76
+\EU1/STKaiti(0)/m/n/10 境里的定义信息。因此在做检查之前须先构建符号表。构建好符号表之后，根据
+ []
+
+File: uml1.png Graphic file (type QTm)
+<use  "uml1.png" >
+Overfull \hbox (5.0pt too wide) in paragraph at lines 78--85
+[]\EU1/STKaiti(0)/m/n/10 符号表的功能是描述整个程序的逻辑结构，程序源代码中的每个标识符和他
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 的声明、使用信息绑定在一起存储在符号表中，需要存储的内容包括数据类型、
+ []
+
+
+Overfull \hbox (1.34pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 作用域和使用情况（比如转kanga的DU链）。由于这一部分里，minijava所有的
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 声明都在函数的开始，不会在嵌套括号中声明，大大减小了符号表的维护难度。
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 在这个情况下最小的作用单元仅为一个函数，而所有函数均归属于某一个类（不
+ []
+
+
+Overfull \hbox (6.03pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 存在全局函数，即便存在可以认为属于main类）。而在每一个函数单元里我们需
+ []
+
+
+Overfull \hbox (6.66667pt too wide) in paragraph at lines 78--85
+\EU1/STKaiti(0)/m/n/10 要记录她的变量信息，将标志符和类型进行对应记录其中。 基于以上分析，我得
+ []
+
+
+Overfull \hbox (3.69672pt too wide) in paragraph at lines 87--88
+[]\EU1/STKaiti(0)/m/n/10 符号表包含三种基本类型的符号元素，分别是Method, _Class, Variable。由
+ []
+
+
+Overfull \hbox (9.72003pt too wide) in paragraph at lines 87--88
+\EU1/STKaiti(0)/m/n/10 于每个元素都可能具有一些包含包含关系（比如class包含成员函数和成员变
+ []
+
+
+Overfull \hbox (1.25003pt too wide) in paragraph at lines 87--88
+\EU1/STKaiti(0)/m/n/10 量，method包含初始化定义的变量等），在设计时将它们公有的信息提取
+ []
+
+
+Overfull \hbox (9.71004pt too wide) in paragraph at lines 88--89
+[]\EU1/STKaiti(0)/m/n/10 对于Method来说，需要额外记录它的形参列表和返回值。对于_Class来说，
+ []
+
+
+Overfull \hbox (5.95003pt too wide) in paragraph at lines 88--89
+\EU1/STKaiti(0)/m/n/10 需要额外记录类的继承关系。由于minijava没有多继承特质，只需要记录一
+ []
+
+
+Overfull \hbox (5.94003pt too wide) in paragraph at lines 88--89
+\EU1/STKaiti(0)/m/n/10 个父节点即可。对于Variable，可以记录一下它在程序执行过程中有没有初
+ []
+
+
+Overfull \hbox (5.31003pt too wide) in paragraph at lines 90--91
+[]\EU1/STKaiti(0)/m/n/10 为了方便之后进行变量类型的比较，自己实现了一个_Type类用以记录某一
+ []
+
+[1
+
+]
+Overfull \hbox (2.98pt too wide) in paragraph at lines 92--93
+\EU1/STKaiti(0)/m/n/10 符号表建立需要一次便利整个AST，由于按照深度优先遍历，在对每个函数进行
+ []
+
+
+Overfull \hbox (1.99pt too wide) in paragraph at lines 92--93
+\EU1/STKaiti(0)/m/n/10 遍历的时候必然已经建立好它所在的类_Class节点了，只需要在回溯的时候将该
+ []
+
+
+Overfull \hbox (7.22002pt too wide) in paragraph at lines 99--100
+\EU1/STKaiti(0)/m/n/10 回值匹配，需要第二次对程序进行遍历，借助符号表完成。 $\OML/cmm/m/it/10 bonus$\EU1/
+STKaiti(0)/m/n/10 未初始化
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 105--106
+[]\EU1/STKaiti(0)/m/n/10 这一部分只和程序的定义部分有关，只需要在符号表建立过程中和建立后对
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 105--106
+\EU1/STKaiti(0)/m/n/10 其进行分析即可。其中函数变量重复定义的问题只需要在建立符号表时留意在准
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 105--106
+\EU1/STKaiti(0)/m/n/10 备将一个元素加入符号表示，判断之前是不是已经加入过了。如果是，说明该变
+ []
+
+[2]
+Overfull \hbox (0.95pt too wide) in paragraph at lines 107--108
+[]\EU1/STKaiti(0)/m/n/10 较为复杂的是关于循环继承和方法重载的问题。由于minijava允许重写但不
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 107--108
+\EU1/STKaiti(0)/m/n/10 允许重载，即子类可以有一个方法和父类的某方法方法名、变量列表、返回值完
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 107--108
+\EU1/STKaiti(0)/m/n/10 全匹配，但不允许方法名一样但变量列表或者返回值不同。因此，在获得了符号
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 107--108
+\EU1/STKaiti(0)/m/n/10 表中所有类的继承关系（每个类有一个父类引用）之后，可以利用它构建一个继
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 109--110
+[]\EU1/STKaiti(0)/m/n/10 之后对该图进行判环。标准做法可以用拓扑排序，但因为在本例中每个节点
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 109--110
+\EU1/STKaiti(0)/m/n/10 至多只有一个父节点，只需从任意一个没有遍历过的节点开始往后不断遍历看是
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 109--110
+\EU1/STKaiti(0)/m/n/10 否会跳到之前出现过的节点即可。如果该图有环，则势必出现了循环重载；如果
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 109--110
+\EU1/STKaiti(0)/m/n/10 无环，每一个类都处在有且仅有一个继承链中（因为每个类至多继承一个父类），
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 109--110
+\EU1/STKaiti(0)/m/n/10 则只需要从链头开始记录该链的方法列表，每到下一个节点，判断该节点中的所
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 109--110
+\EU1/STKaiti(0)/m/n/10 有方法是否和当前列表中任何一个重载匹配，即类名相同，但方法、返回值不完
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 115--116
+[]\EU1/STKaiti(0)/m/n/10 下一步进行动态分配错误的检查。动态分配错误主要是一个变量应该是某一
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 115--116
+\EU1/STKaiti(0)/m/n/10 个类型，但是在其被使用的位置被赋上了类型不匹配的值、抑或是被于类型不匹
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 117--118
+[]\EU1/STKaiti(0)/m/n/10 动态分配错误包含非常多的分项，但归根结底就是在语法树使用到规约到某
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 117--118
+\EU1/STKaiti(0)/m/n/10 一个变量的时候，其上下文约束这个位置需要出现某一个类型，但是实际上这个
+ []
+
+
+Overfull \hbox (0.86pt too wide) in paragraph at lines 117--118
+\EU1/STKaiti(0)/m/n/10 变量却不是这个类型。而在minijava的BNF语法中，涉及到规约到某一个变量的
+ []
+
+
+Overfull \hbox (0.12001pt too wide) in paragraph at lines 117--118
+\EU1/STKaiti(0)/m/n/10 节点是Expression和PrimaryExpression。因此在程序中，只需要针对这两类所在
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 117--118
+\EU1/STKaiti(0)/m/n/10 的上下文判定出这个位置需要填什么类型的变量，再同其真实值的标志符对应的
+ []
+
+
+Overfull \hbox (0.95pt too wide) in paragraph at lines 119--120
+[]\EU1/STKaiti(0)/m/n/10 其中较为复杂的表达式是调用方法的。因为minijava允许子类调用父类的方
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 119--120
+\EU1/STKaiti(0)/m/n/10 法，在调用某函数时，需要先找到当前类所在的继承链，然后从头到尾扫描一遍
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 119--120
+\EU1/STKaiti(0)/m/n/10 找到和当前方法名一样的方法（若找不到则调用了未定义方法），之后判断参数
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 119--120
+\EU1/STKaiti(0)/m/n/10 列表和返回值是否匹配。因为前文提到不允许重载，所以只要标志符相同则一定
+ []
+
+
+Overfull \hbox (9.75pt too wide) in paragraph at lines 121--122
+[]\EU1/STKaiti(0)/m/n/10 bonus要求找出未初始化即使用的变量。实际上这一步想要完美作出必须得分
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 121--122
+\EU1/STKaiti(0)/m/n/10 析程序执行流，知道跳转关系，方能较为准确的获知是否出现这个情况。在只拥
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 121--122
+\EU1/STKaiti(0)/m/n/10 有符号表的前提下，可以做保守估计，假设在整个函数体中均为定义，但有一处
+ []
+
+
+Overfull \hbox (19.34pt too wide) in paragraph at lines 121--122
+\EU1/STKaiti(0)/m/n/10 使用，则认为它可能错（实际上使用处可能是永远不会到达的死代码，比如if(false);
+ []
+
+
+Overfull \hbox (0.26pt too wide) in paragraph at lines 130--131
+[]\EU1/STKaiti(0)/m/n/10 这一部分任务要求把minijava转成piglet中间代码。minijava是一个面向对象
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 130--131
+\EU1/STKaiti(0)/m/n/10 的，以类为核心的高级语言，要想真实运行必须最终转变成只包含基本运算和跳
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 130--131
+\EU1/STKaiti(0)/m/n/10 转的汇编指令。那么一个难点就是如何将继承、重载等面向对象的高级机制翻译
+ []
+
+[3]
+Overfull \hbox (8.36pt too wide) in paragraph at lines 132--133
+[]\EU1/STKaiti(0)/m/n/10 piglet是一种接近中间代码的语言，采用后缀表达式，操作符放在最前面，并
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 132--133
+\EU1/STKaiti(0)/m/n/10 不是严格的三地址代码。但是它取消了类的设定，整个程序是面向过程的代码。 
+ []
+
+
+Overfull \hbox (5.61pt too wide) in paragraph at lines 134--135
+[]\EU1/STKaiti(0)/m/n/10 在真实进行翻译时，原本在java里以一个封装类表现的对象，在piglet中需要
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 134--135
+\EU1/STKaiti(0)/m/n/10 显示地为他开辟一段空间，把类的成员变量和成员方法地址信息依次填入这段空
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 134--135
+\EU1/STKaiti(0)/m/n/10 间。需要开多大，如何存放，都是在翻译的时候决定好的。因此在翻译之前必须
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 136--137
+[]\EU1/STKaiti(0)/m/n/10 处理好面向对象之后，其他就只是基本的语法制导翻译的内容了。需要注意
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 136--137
+\EU1/STKaiti(0)/m/n/10 数组的处理、过程调用的处理等。由于piglet采用的是后缀表达式，可以用类似递
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 140--141
+[]\EU1/STKaiti(0)/m/n/10 在面向对象语言中，类是操作的主体，变量和过程都是类的一部分。然而在
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 140--141
+\EU1/STKaiti(0)/m/n/10 piglet中数据类型只有基本类型，必须讲类拆分开，对每一个对象显示地开辟空间
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 140--141
+\EU1/STKaiti(0)/m/n/10 放入合适的内容。由于我们知道每一个对象是什么类的，只需要将这个类可以访
+ []
+
+
+Overfull \hbox (0.95pt too wide) in paragraph at lines 142--143
+[]\EU1/STKaiti(0)/m/n/10 在minijava中，子类可以访问自己以及继承链上所有父节点的变量和方法。
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 142--143
+\EU1/STKaiti(0)/m/n/10 因此需要用到上一节中构建符号表中的继承链。将每个类可以访问到的所有变量、
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 142--143
+\EU1/STKaiti(0)/m/n/10 方法，以及相对应的她们在对象空间里的相对位置存放在一个表中。和一些同学
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 142--143
+\EU1/STKaiti(0)/m/n/10 的做法不同，我认为没有明显的必要区分变量和方法，可以把他们混杂在一起放
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 142--143
+\EU1/STKaiti(0)/m/n/10 在一个访问表里。这个表需要根据程序对某个对象的上下文状态以及调用他的成
+ []
+
+
+Overfull \hbox (25.0pt too wide) in paragraph at lines 142--143
+\EU1/STKaiti(0)/m/n/10 员标志符，决定最终返回该对象哪个位置的信息（是变量的位置还是方法的位置）。 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 146--147
+[]\EU1/STKaiti(0)/m/n/10 处理类结构最难的部分就是处理类之间的继承关系了。对于变量和方法，继
+ []
+
+
+Overfull \hbox (6.05003pt too wide) in paragraph at lines 148--149
+[]\EU1/STKaiti(0)/m/n/10 假设c是A,B公有的同名变量，新变量A.c并不会把旧变量B.c的空间占去。虽
+ []
+
+
+Overfull \hbox (1.21004pt too wide) in paragraph at lines 148--149
+\EU1/STKaiti(0)/m/n/10 然在具体程序运行的时候，类A调用c只能获取自己的那部分空间，但是如
+ []
+
+
+Overfull \hbox (16.24004pt too wide) in paragraph at lines 148--149
+\EU1/STKaiti(0)/m/n/10 果把A强制类型转换成B，即可访问B.c的内容。因此在构建上文描述的表时，
+ []
+
+
+Overfull \hbox (6.91003pt too wide) in paragraph at lines 150--151
+[]\EU1/STKaiti(0)/m/n/10 假设f是A,B共有的同名函数，A.f将会覆盖B.f。这样即便讲A强制转化为B类
+ []
+
+
+Overfull \hbox (0.36003pt too wide) in paragraph at lines 150--151
+\EU1/STKaiti(0)/m/n/10 型，调用f时也会调用A的方法。以此实现多态。因此在构建表时，当需要
+ []
+
+
+Overfull \hbox (2.70003pt too wide) in paragraph at lines 150--151
+\EU1/STKaiti(0)/m/n/10 添加方法f时，需要遍历一下继承链上所有的para列表，保证如果发现和需
+ []
+
+
+Overfull \hbox (3.37003pt too wide) in paragraph at lines 150--151
+\EU1/STKaiti(0)/m/n/10 要添加的方法f重名，将其覆盖。构建时从继承链的头开始依次添加覆盖，
+ []
+
+[4]
+Overfull \hbox (4.51001pt too wide) in paragraph at lines 189--190
+[]\EU1/STKaiti(0)/m/n/10 具体实现细节如Fig.2[]的数据结构。其中para是变量、方法的抽象表示，包含
+ []
+
+
+Overfull \hbox (8.13pt too wide) in paragraph at lines 189--190
+\EU1/STKaiti(0)/m/n/10 一些基本信息。Dispatched_table即前文提到的对每个类可以访问到的变量、方法
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 189--190
+\EU1/STKaiti(0)/m/n/10 的表。它是一个二位的链表。第一个维度是继承链上的类名，对每一个类，第二
+ []
+
+
+Overfull \hbox (4.33pt too wide) in paragraph at lines 189--190
+\EU1/STKaiti(0)/m/n/10 个维度是他所对应的所有变量、方法（para）。构建时按照前述方法，方法覆盖
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 191--192
+[]\EU1/STKaiti(0)/m/n/10 具体调用变量时，从最靠近当前类的位置寻找变量，找到则返回。调用方法
+ []
+
+
+Overfull \hbox (4.33pt too wide) in paragraph at lines 191--192
+\EU1/STKaiti(0)/m/n/10 是，因为每个方法至多只含一个，只要找到即可返回。统一返回para对应的偏移
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 193--194
+[]\EU1/STKaiti(0)/m/n/10 为了实现对象内的函数调用，穿参数是第一个参数预留给对象本身。如果在
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 193--194
+\EU1/STKaiti(0)/m/n/10 函数内使用本地变量，直接使用相应的寄存器存取。如果使用的是类的成员变量，
+ []
+
+
+Overfull \hbox (0.62001pt too wide) in paragraph at lines 193--194
+\EU1/STKaiti(0)/m/n/10 以TEMP0为基地址，依据Dispatched_table中变量相应的偏移位置，存取对应内
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 193--194
+\EU1/STKaiti(0)/m/n/10 存区域（即为对应成员变量）。其他的参数按照piglet的要求进行传递，如果有多
+ []
+
+File: uml2.png Graphic file (type QTm)
+<use  "uml2.png" >
+Overfull \hbox (8.36pt too wide) in paragraph at lines 202--203
+[]\EU1/STKaiti(0)/m/n/10 由于piglet要求获得数组长度，并拥有预判是否因为访问数组越界而引发错误
+ []
+
+
+Overfull \hbox (9.75pt too wide) in paragraph at lines 202--203
+\EU1/STKaiti(0)/m/n/10 （上一个作业的bonus，在这里可以完美实现），我们给数组开辟空间的时候多开
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 202--203
+\EU1/STKaiti(0)/m/n/10 一位存储数组长度。这样一来方便获取数组长度，二来在进行数组访问的时候可
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 202--203
+\EU1/STKaiti(0)/m/n/10 以先取出长度进行预判，是否会出现数组越界。程序中代表数组的只是数组首地
+ []
+
+
+Overfull \hbox (0.95pt too wide) in paragraph at lines 206--207
+[]\EU1/STKaiti(0)/m/n/10 将以上两部分预先处理解决好后，即可逐行对minijava进行语法制导翻译。
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 翻译时有两件事需要注意。第一是由于在处理成员变量时需要知道当前所在的上
+ []
+
+
+Overfull \hbox (8.13pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 下文信息，所以需要记录当前所在的类、函数，以及当前的Dispatched_table。第
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 二是由于piglet对于变量的标志是使用寄存器的，所以在翻译时还需要维护在当前
+ []
+
+
+Overfull \hbox (0.95pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 函数上下文内的变量符号表。该表的目的是将minijava的标志符和变量的地址进
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 行映射（包括寄存器和内存）。变量符号表和上下文一一绑定，因为一旦切换到
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 另一个函数，所有寄存器将清零（piglet的做法）。不过虽然没有在程序里显示表
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 206--207
+\EU1/STKaiti(0)/m/n/10 示，但在具体执行的时候调用函数之前piglet解释器会将当前寄存器保存，返回时
+ []
+
+[5]
+Overfull \hbox (6.87001pt too wide) in paragraph at lines 212--213
+[]\EU1/STKaiti(0)/m/n/10 前文提到超过20个参数是可以把所有参数放到TEMP1所开辟的空间，方便所
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 212--213
+\EU1/STKaiti(0)/m/n/10 有寄存器统一处理。为了让之后赋值和取值是可以快速得到参数的位置，最好不
+ []
+
+
+Overfull \hbox (8.13pt too wide) in paragraph at lines 212--213
+\EU1/STKaiti(0)/m/n/10 要每次都去查Dispatched_table计算得到。于是考虑讲变量信息存入变量符号表。
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 212--213
+\EU1/STKaiti(0)/m/n/10 为了区分存入内存的和寄存器的，我的处理方式是放入内存的位置都取负值，而
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 212--213
+\EU1/STKaiti(0)/m/n/10 放入寄存器的是正值。这样可以快速的识别并且和位置一一对应。这么做只在本
+ []
+
+
+Overfull \hbox (2.18001pt too wide) in paragraph at lines 212--213
+\EU1/STKaiti(0)/m/n/10 次作业可行，因为唯一需要压入内存的全部存在了TEMP0和1处。未来要做必须
+ []
+
+
+Overfull \hbox (0.95pt too wide) in paragraph at lines 216--217
+[]\EU1/STKaiti(0)/m/n/10 赋值的难点在于准确的找到被赋值的数据位置。从minijava语句里可以得到
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 216--217
+\EU1/STKaiti(0)/m/n/10 被赋值的变量的名字，通过名字可以知道该变量是成员变量，局部变量还是函数
+ []
+
+
+Overfull \hbox (13.13004pt too wide) in paragraph at lines 218--219
+\EU1/STKaiti(0)/m/n/10 Dispatched_table得到的偏移量，计算得到成员变量的内存地址，进行存取。 
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 219--220
+\EU1/STKaiti(0)/m/n/10 并在寄存器表中有记录。如果没有，多开一个寄存器给他，加入寄存器表。
+ []
+
+
+Overfull \hbox (18.76004pt too wide) in paragraph at lines 219--220
+\EU1/STKaiti(0)/m/n/10 寄存器分配从20开始（前20个留给函数传参使用。现阶段不做寄存器优化）。 
+ []
+
+[6]
+Overfull \hbox (19.38004pt too wide) in paragraph at lines 220--221
+[]\EU1/STKaiti(0)/m/n/10 如果是函数参数，判断该函数参数是否有超过20。如果没有则直接按序号取。
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 223--224
+[]\EU1/STKaiti(0)/m/n/10 数组赋值基本和普通数赋值同理，除了之前提到的数组需要判断一下这次赋
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 227--228
+[]\EU1/STKaiti(0)/m/n/10 逻辑运算中较为麻烦的是与运算。因为piglet没有与运算符，所以需要利用比
+ []
+
+
+Overfull \hbox (4.67001pt too wide) in paragraph at lines 227--228
+\EU1/STKaiti(0)/m/n/10 都为1，于是分别将A,B同0进行比较，如果相同跳到失败区，返回0，连续两次成
+ []
+
+
+Overfull \hbox (6.56pt too wide) in paragraph at lines 235--236
+[]\EU1/STKaiti(0)/m/n/10 Spiglet代码和piglet最大的区别就是删去了后缀表达式造成的复合语句。没有
+ []
+
+
+Overfull \hbox (1.94pt too wide) in paragraph at lines 235--236
+\EU1/STKaiti(0)/m/n/10 了StmtExp。有很多同学直接从piglet转spiglet，只需要对原来出现复合表达式的
+ []
+
+
+Overfull \hbox (8.15pt too wide) in paragraph at lines 235--236
+\EU1/STKaiti(0)/m/n/10 极少数情况做处理即可。但当时我没有听清题意，做成了minijava转spiglet，做法
+ []
+
+
+Overfull \hbox (8.15pt too wide) in paragraph at lines 237--238
+[]\EU1/STKaiti(0)/m/n/10 minijava转spiglet最大的麻烦之处就是有更多的地方需要做回填。比如函数调
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 237--238
+\EU1/STKaiti(0)/m/n/10 用，所有的参数都得先实现算好暂存在一个列表里再放进去，诸如此类的回填特
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 237--238
+\EU1/STKaiti(0)/m/n/10 别多。最恶心的就是之前为了防止数组越界，要先判断访问下标和数组长。由于
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 237--238
+\EU1/STKaiti(0)/m/n/10 其中牵扯到一些四则运算和比较，在piglet里面都可以通过复合表达式处理成一句
+ []
+
+
+Overfull \hbox (19.68002pt too wide) in paragraph at lines 249--250
+[]\EU1/STKaiti(0)/m/n/10 除极少数赋值指令外均实现了三地址代码（其实感觉完全可以一步mips的）。 
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 251--252
+[]\EU1/STKaiti(0)/m/n/10 调用函数时不再有显示调用参数，需要通过固定的寄存器和堆栈进行传参。
+ []
+
+
+Overfull \hbox (24.34003pt too wide) in paragraph at lines 252--253
+[]\EU1/STKaiti(0)/m/n/10 最最主要的区别就是Kanga的语法里寄存器数量变得有限（24个）。要将spiglet
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 255--256
+[]\EU1/STKaiti(0)/m/n/10 可以说这部分最难的地方就在于寄存器分配。在之前的翻译中，寄存器基本
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 255--256
+\EU1/STKaiti(0)/m/n/10 就是有需要就开一个，但那样显然不符合实际。有大量寄存器使用一次过后再也
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 255--256
+\EU1/STKaiti(0)/m/n/10 没有使用，却依然占据着位置。合理的寄存器分配应该用尽可能少的寄存器完成
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 257--258
+[]\EU1/STKaiti(0)/m/n/10 而想要做到高效分配寄存器，就必须做变量的活性分析，了解在某一个时刻
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 257--258
+\EU1/STKaiti(0)/m/n/10 哪些变量活跃，需要寄存器来承接这些值；什么时候不太活跃，但未来需要被用
+ []
+
+[7]
+Overfull \hbox (9.75pt too wide) in paragraph at lines 259--260
+[]\EU1/STKaiti(0)/m/n/10 提到活跃性分析就可以想到在类型检查时的bonus，判断哪个变量未初始化即
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 259--260
+\EU1/STKaiti(0)/m/n/10 被使用。当时我们没有办法完整的做出判断，因为不知道程序的控制流。但现在
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 259--260
+\EU1/STKaiti(0)/m/n/10 如果要做活跃性分析，必须知道程序的执行顺序，也就是控制流。在构建好控制
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 259--260
+\EU1/STKaiti(0)/m/n/10 流的基础上，可以计算每个变量的DU链，了解在某个时刻哪些变量不能共存，建
+ []
+
+
+Overfull \hbox (2.2pt too wide) in paragraph at lines 263--264
+[]\EU1/STKaiti(0)/m/n/10 首先我们对spiglet程序进行控制流分析，建立流图。流图是程序可能的执行
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 263--264
+\EU1/STKaiti(0)/m/n/10 跳转图，每个节点是一个基本块。基本块是程序中一个连续的语句序列，每次执
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 263--264
+\EU1/STKaiti(0)/m/n/10 行都从这个序列的第一句话开始顺序执行到最后一句话。流图示表示各基本块执
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 272--273
+[]\EU1/STKaiti(0)/m/n/10 找到所有入口语句后，每个基本块就是任一个入口语句到下一个入口语句之
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 272--273
+\EU1/STKaiti(0)/m/n/10 前语句话之间的程序段。由此可以构建出每个基本块，且由一个入口语句连接的
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 274--275
+[]\EU1/STKaiti(0)/m/n/10 在构建的过程中我们能知道每一条语句定义或者使用了哪些变量。这些语句
+ []
+
+
+Overfull \hbox (19.7pt too wide) in paragraph at lines 274--275
+\EU1/STKaiti(0)/m/n/10 （Operation）是基本块的元素，而基本块是流图的元素。数据结构见Fig.reffig:umlc. 
+ []
+
+File: uml3.png Graphic file (type QTm)
+<use  "uml3.png" >
+Overfull \hbox (5.0pt too wide) in paragraph at lines 284--285
+[]\EU1/STKaiti(0)/m/n/10 进行活性分析的要点在于找出在某一时刻哪几个变量同时活跃。活跃的意思
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 284--285
+\EU1/STKaiti(0)/m/n/10 是在之后的某一时刻该变量要被使用，而在这过程中这个变量没有被赋予新值。
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 284--285
+\EU1/STKaiti(0)/m/n/10 因此这个变量在这个时刻需要被保存，也就是需要寄存器。显然，同时活跃的变
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 288--289
+[]\EU1/STKaiti(0)/m/n/10 构建完流图以后，我们首先以基本块为单位进行活跃性分析，解出在每个基
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 288--289
+\EU1/STKaiti(0)/m/n/10 本块的入口和出口有哪些变量还活跃。因为我们知道当知道了在一个基本块开头
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 288--289
+\EU1/STKaiti(0)/m/n/10 和结尾处活跃的变量以后，中间顺序执行非常好计算。但在流图中反复跳转不确
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 292--293
+[]\EU1/STKaiti(0)/m/n/10 由于之前在构建流图的时候，知道了基本块每个语句定义或者使用了哪些变
+ []
+
+
+Overfull \hbox (3.67001pt too wide) in paragraph at lines 292--293
+\EU1/STKaiti(0)/m/n/10 量。通过简单的加和即可知道一个基本块整体上DEF了哪些变量，USE了哪些变
+ []
+
+
+Overfull \hbox (3.6pt too wide) in paragraph at lines 292--293
+\EU1/STKaiti(0)/m/n/10 量（注意，一个变量属于USE的前提是在这个基本块里他在被使用的语句之前没
+ []
+
+
+Overfull \hbox (5.07pt too wide) in paragraph at lines 292--293
+\EU1/STKaiti(0)/m/n/10 有别的语句给他赋值，属于DEF同理，被赋值之前不能有语句使用了他。）将以
+ []
+
+
+LaTeX Font Warning: Font shape `EU1/STKaiti(0)/m/it' undefined
+(Font)              using `EU1/STKaiti(0)/m/n' instead on input line 295.
+
+
+Overfull \hbox (2.80786pt too wide) in paragraph at lines 296--297
+[]\EU1/STKaiti(0)/bx/n/10 Definition 1. []\EU1/STKaiti(0)/m/n/10 一个寄存器$\OML/cmm
+/m/it/10 v$\EU1/STKaiti(0)/m/n/10 在$\OML/cmm/m/it/10 p$\EU1/STKaiti(0)/m/n/10 点
+活跃当且仅当$\OML/cmm/m/it/10 v$\EU1/STKaiti(0)/m/n/10 在某个以$\OML/cmm/m/it/10 p$\EU1/S
+TKaiti(0)/m/n/10 开始的路径上被读取
+ []
+
+
+Overfull \hbox (1.46725pt too wide) in paragraph at lines 296--297
+\EU1/STKaiti(0)/m/n/10 了（use）并且没有写入（def）出现在这个读取之前。同理，一个寄存器$\OML/cmm/m/it/10 v$\
+EU1/STKaiti(0)/m/n/10 在$\OML/cmm/m/it/10 p$\EU1/STKaiti(0)/m/n/10 点
+ []
+
+
+Overfull \hbox (3.6885pt too wide) in paragraph at lines 296--297
+\EU1/STKaiti(0)/m/n/10 不活跃当且仅当$\OML/cmm/m/it/10 v$\EU1/STKaiti(0)/m/n/10 在没有一个以
+$\OML/cmm/m/it/10 p$\EU1/STKaiti(0)/m/n/10 开始的路径上被读取了（use）或者所有以$\OML/cmm/m/it/1
+0 p$\EU1/STKaiti(0)/m/n/10 开始
+ []
+
+[8]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 335--336
+[]\EU1/STKaiti(0)/m/n/10 得到基本块首尾的活跃信息以后，开始对基本块内逐条语句进行分析。原则
+ []
+
+
+Overfull \hbox (7.81pt too wide) in paragraph at lines 335--336
+\EU1/STKaiti(0)/m/n/10 和之前一样，遇到def即将变量移除活跃列表，遇到则加入。在某一语句上的活跃
+ []
+
+
+Overfull \hbox (8.36pt too wide) in paragraph at lines 337--338
+[]\EU1/STKaiti(0)/m/n/10 实际上在如何构建干扰图上我是有过挣扎的。如果说我之前转piglet的代码不
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 是非常贪心的需要一个寄存器就放一个，而是有少量的回收，也就是可能会有寄
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 存器跨越两个不连续的DU链，那么以变量为节点可能导致过分保守。比如在一个
+ []
+
+
+Overfull \hbox (4.15pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 基本块里，只在开头a与b冲突，但之后ab先后到达use点。之后一段时间a再一次
+ []
+
+
+Overfull \hbox (0.2pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 被def，此时b没有活跃，可是a却要收到b的影响染色数少1.这样是不合理的。对
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 于这种情况，更合适的做法是用DU链为节点。如果要那么做，可以对现在的图做
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 一次遍历，找出所有的DU链以及他们的跨度和相互干扰，以此建图。幸好我的转
+ []
+
+
+Overfull \hbox (3.23pt too wide) in paragraph at lines 337--338
+\EU1/STKaiti(0)/m/n/10 piglet代码是贪心策略，导致我的每一个寄存器号就可以被当作一个DU链。我这
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+[]\EU1/STKaiti(0)/m/n/10 之后对干扰图进行图染色算法分析。随机选点移出图，若其度数小于最大寄
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+\EU1/STKaiti(0)/m/n/10 存器数，即将其移出图，并加入栈中。否则换下一个。若所有点都试过还是不能
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+\EU1/STKaiti(0)/m/n/10 移除，说明无法染色，需要弹出点。恢复成初始状态并弹出一个点，将其作为压
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+\EU1/STKaiti(0)/m/n/10 栈点（不为其在这个时刻分配寄存器了）。对剩余的新图进行图染色。直到图中
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+\EU1/STKaiti(0)/m/n/10 所有点都被移除，然后按照顺序依次放回，每次放回后分配一个颜色，要求这个
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 339--340
+\EU1/STKaiti(0)/m/n/10 颜色要和已经被放回图里的相邻点都不同。因为之前没个点最大度数都小于最大
+ []
+
+[9]
+Overfull \hbox (0.69pt too wide) in paragraph at lines 341--342
+[]\EU1/STKaiti(0)/m/n/10 为了特殊需要，我们预留了’a0’,’a1’,’a2’,’a3’不分配，因为他们是传参的寄存
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 341--342
+\EU1/STKaiti(0)/m/n/10 器。其实也可以将它们加入参与分配，但是需要在调用函数的时候加入这几个寄
+ []
+
+
+Overfull \hbox (8.42pt too wide) in paragraph at lines 341--342
+\EU1/STKaiti(0)/m/n/10 存器的use。或者进行预着色，对于最后需要被函数调用的几个寄存器一开始就分
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 341--342
+\EU1/STKaiti(0)/m/n/10 配这几个颜色。由于时间因素我没有做这两个事情，仅仅将这四个寄存器预留出
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 346--347
+[]\EU1/STKaiti(0)/m/n/10 完成寄存器分配以后的翻译工作就很简单了。只需要在每次变量替换的时候
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 346--347
+\EU1/STKaiti(0)/m/n/10 找到合适的寄存器就好。由于现在代码变成了类三地址代码，没有冗长的复合表
+ []
+
+
+Overfull \hbox (11.65pt too wide) in paragraph at lines 346--347
+\EU1/STKaiti(0)/m/n/10 达式，很多寄存器需要实现算好或者预留好才可以进行下一步计算，于是将visitor
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 348--349
+[]\EU1/STKaiti(0)/m/n/10 唯一需要注意的是寄存器满了需要压栈或者弹栈的时候。由于当寄存器都满
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 348--349
+\EU1/STKaiti(0)/m/n/10 的时候理论上不可以弹出，但我们预留了四个寄存器，完全可以用他们来做缓冲，
+ []
+
+
+Overfull \hbox (0.52pt too wide) in paragraph at lines 351--353
+[]\EU1/STKaiti(0)/m/n/10 在完成了到kanga的翻译后，开始思考能不能优化现在得到的结果。由于之
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 前计算DU链的时候，知道任何位置变量是否活跃。那么当一个变量在某个位置被
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 定义了，可是后面不活跃的时候，这个变量就是死代码，应该被消除。需要实现
+ []
+
+
+Overfull \hbox (1.23pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 这个优化需要更改之前计算基本块活跃性的算法，讲use和def的优先级互调。举
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 个例子，假设某一个时刻一个变量同时被使用以及定义了，那么在这个位置之前
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 这个变量应该是活跃的，可是就在这个语句的位置呢？按经典的算法来看这个位
+ []
+
+
+Overfull \hbox (6.66667pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 置也是活跃的，但如果在这以后没有人用到这个变量，说明 这个位置应该不会被
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 351--353
+\EU1/STKaiti(0)/m/n/10 用到，可以被删去，那么这么说这条语句之前这个变量也不会活跃，连锁反应可
+ []
+
+[10]
+Overfull \hbox (1.23pt too wide) in paragraph at lines 354--355
+[]\EU1/STKaiti(0)/m/n/10 因此我们首先用先def再use计算正确的该位置之前的变量活跃性信息，放到
+ []
+
+
+Overfull \hbox (8.42pt too wide) in paragraph at lines 354--355
+\EU1/STKaiti(0)/m/n/10 一个临时变量里面供下一次循环使用。但对这个点本身的信息，先计算use再计算
+ []
+
+
+Overfull \hbox (7.81pt too wide) in paragraph at lines 354--355
+\EU1/STKaiti(0)/m/n/10 def，得到这个位置的活跃性信息。等到所有分析技术以后，将那些不活跃，但是
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 356--357
+[]\EU1/STKaiti(0)/m/n/10 删掉以后其实可以做迭代处理，但限于时间没有做更多探讨。经测试对于较
+ []
+
+
+Overfull \hbox (3.90999pt too wide) in paragraph at lines 361--362
+[]\EU1/STKaiti(0)/m/n/10 Kanga和Mips基本没什么显著的区别，只是压栈弹栈不再有标准函数，而是
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 361--362
+\EU1/STKaiti(0)/m/n/10 需要自己维护栈指针和栈空间。由于上一节有计算一个函数调用最大需要用多少
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 361--362
+\EU1/STKaiti(0)/m/n/10 栈空间，维护栈空间的工作是相对简单的。由于上一届图染色没有将’a0’,’a1’加入
+ []
+
+
+Overfull \hbox (4.68pt too wide) in paragraph at lines 361--362
+\EU1/STKaiti(0)/m/n/10 寄存器分配，幸免于难～mips里面这两个寄存器有特殊用途，大量的栈存取都有
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 367--368
+[]\EU1/STKaiti(0)/m/n/10 调用者保存寄存器（实际上为了方便我把所有会被覆盖的寄存器都压栈了，
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 371--372
+\EU1/STKaiti(0)/m/n/10 由于第一点所在的区域（函数参数）是上一个栈帧的内容，实际上和上一节计算
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 378--379
+[]\EU1/STKaiti(0)/m/n/10 这次实习真的让我学到很多很多，也算是第一次实现一个底层的工具，过程
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 378--379
+\EU1/STKaiti(0)/m/n/10 中对数据结构以及编译的理解都加深了不少。很好的锻炼了我本人的工程能力和
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 378--379
+\EU1/STKaiti(0)/m/n/10 逻辑思维。尤其是寄存器分配那一部分，一直在纠结于干扰图的节点到底是以变
+ []
+
+
+Overfull \hbox (9.87pt too wide) in paragraph at lines 378--379
+\EU1/STKaiti(0)/m/n/10 量来算还是DU链来算，是先按基本块构建的流图粗略的分析还是直接就把每一条
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 378--379
+\EU1/STKaiti(0)/m/n/10 语句当基本块（实际上我觉得书本里说的很对，基本块首尾确定后，内部的变化
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 378--379
+\EU1/STKaiti(0)/m/n/10 非常显而易见。但是如果拿所有的来迭代，效率会很低很低，因为每次迭代需要
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 380--381
+[]\EU1/STKaiti(0)/m/n/10 不过回首再看的话，收获最大的也就是刚开始的类型检查（构建符号表体系，
+ []
+
+
+Overfull \hbox (9.83pt too wide) in paragraph at lines 380--381
+\EU1/STKaiti(0)/m/n/10 做的最认真的设计），minijava转piglet（第一次实际做语法制导翻译），和kanga
+ []
+
+
+Overfull \hbox (1.87999pt too wide) in paragraph at lines 380--381
+\EU1/STKaiti(0)/m/n/10 的寄存器分配，剩下两个环节，spiglet和mips内容稍显薄弱。其实在做完寄存器
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 380--381
+\EU1/STKaiti(0)/m/n/10 分配以后代码还有很多优化的空间，像我心血来潮做的死代码消除，以及定值确
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 380--381
+\EU1/STKaiti(0)/m/n/10 定之类的工作，完全可以做而且也很有意思。如果未来还开课的话可以考虑一下
+ []
+
+[11] [12] (./project.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1061 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 18511 strings out of 493591
+ 342317 string characters out of 6143546
+ 413716 words of memory out of 5000000
+ 21688 multiletter control sequences out of 15000+600000
+ 11921 words of font info for 95 fonts, out of 8000000 for 9000
+ 1347 hyphenation exceptions out of 8191
+ 46i,18n,72p,10385b,12918s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on project.pdf (12 pages).

@@ -1,0 +1,38 @@
+MAIN
+   PRINT
+      CALL
+         BEGIN MOVE TEMP 20
+            BEGIN
+               MOVE TEMP 21 HALLOCATE 24
+               HSTORE TEMP 21 20 Operator_compute
+            RETURN TEMP 21 END
+            HLOAD TEMP 22 TEMP 20 20
+         RETURN TEMP 22 END
+         (
+            TEMP 20
+         )
+END
+
+Operator_compute [1]
+   BEGIN
+      HSTORE TEMP 0 12 
+         1
+      HSTORE TEMP 0 16 
+         0
+      HSTORE TEMP 0 0 
+         BEGIN
+            CJUMP LT 0
+               BEGIN HLOAD TEMP 20 TEMP 0 12 RETURN TEMP 20 END
+            L0
+            CJUMP LT 0
+               BEGIN HLOAD TEMP 21 TEMP 0 16 RETURN TEMP 21 END
+            L0
+            MOVE TEMP 22 1
+            JUMP L1
+L0
+            MOVE TEMP 22 0
+L1 NOOP
+         RETURN TEMP 23 END
+   RETURN
+      0
+END
